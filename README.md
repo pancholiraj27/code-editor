@@ -28,7 +28,7 @@ To get started with this code editor, follow these steps:
 1. Clone this repository to your local machine.
 
 ```bash
-git clone [https://github.com/your-username/online-code-editor.git](https://github.com/pancholiraj27/code-editor)
+git clone https://github.com/pancholiraj27/code-editor
 ```
 
 
@@ -69,9 +69,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or need assistance, you can contact us at pancholiraj27@gmail.com(mailto:your-email@example.com).
+If you have any questions or need assistance, you can contact us at pancholiraj27@gmail.com.
 
 Happy coding!
 ```
-
-Replace `"pancholiraj27"` with your actual GitHub username and update the email address and contact information accordingly. Also, make sure to include a screenshot (named "screenshot.png") of your code editor in the project directory.
