@@ -1,3 +1,4 @@
+```markdown
 # Online Code Editor
 
 ![Code Editor Screenshot](screenshot.png)
@@ -29,3 +30,48 @@ To get started with this code editor, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/online-code-editor.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd online-code-editor
+```
+
+3. Install the required dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm start
+```
+
+5. Open your web browser and access the code editor at [http://localhost:3000](http://localhost:3000).
+
+## Usage
+
+- Choose a language (HTML, CSS, or JavaScript) using the tabs at the top.
+- Start writing or pasting your code in the editor.
+- You will see the output in real-time in the preview area.
+- To save your code, you can create an account and log in.
+
+## Contributing
+
+We welcome contributions from the community. If you find a bug or have an idea for an improvement, please open an issue or submit a pull request. Make sure to follow the project's coding standards and guidelines.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or need assistance, you can contact us at [your-email@example.com](mailto:your-email@example.com).
+
+Happy coding!
+```
+
+Replace `"your-username"` with your actual GitHub username and update the email address and contact information accordingly. Also, make sure to include a screenshot (named "screenshot.png") of your code editor in the project directory.
