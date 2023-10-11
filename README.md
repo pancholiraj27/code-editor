@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is an online code editor built using React.js that allows you to write and run HTML, CSS, and JavaScript code in real-time. You can see the output of your code as you type, making it a useful tool for web developers and learners.
+This is an online code editor built using React.js that allows you to write and run HTML, CSS, and JavaScript code in real time. You can see the output of your code as you type, making it a useful tool for web developers and learners.
 
 ## Features
 
