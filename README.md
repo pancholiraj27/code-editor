@@ -29,7 +29,7 @@ To get started with this code editor, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/online-code-editor.git
-
+```
 
 
 2. Navigate to the project directory:
